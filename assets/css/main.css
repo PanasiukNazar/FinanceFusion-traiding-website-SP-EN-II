@@ -1146,6 +1146,9 @@ section,
 
 .recent-posts .post-box .post-img img {
     transition: 0.5s;
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
 }
 
 .recent-posts .post-box .meta {
